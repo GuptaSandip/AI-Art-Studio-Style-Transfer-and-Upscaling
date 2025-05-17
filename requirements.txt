@@ -1,0 +1,14 @@
+streamlit 
+tensorflow 
+tensorflow-hub 
+numpy 
+pillow 
+realesrgan
+torch 
+torchvision 
+realesrgan
+py_real_esrgan
+huggingface_hub==0.25.2
+# altair
+# pandas
+# streamlit

@@ -1,0 +1,9 @@
+# Ignore virtual environment
+ai_venv/
+
+# Ignore model weights
+*.pth
+
+# Ignore other unnecessary files
+*.log
+*.tmp
